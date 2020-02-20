@@ -3,8 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Engineers Code: Workshop for STEM Faculty
-# Computing for Teaching and Learning in 2020
+# Engineers Code: Workshop for STEM Faculty: Computing for Teaching and Learning
 
 > If you are a teacher or interested in the design of the course, see the [meta](https://github.com/engineersCode/facultydev1/blob/gh-pages/meta.md) document.
 
