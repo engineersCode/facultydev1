@@ -4,9 +4,9 @@ permalink: /
 ---
 
 # Engineers Code: Workshop for STEM Faculty
-## Computing for Teaching and Learning in 2020
+# Computing for Teaching and Learning in 2020
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/engineersCode/facultydev1/blob/gh-pages/meta.md) document.***
+> If you are a teacher or interested in the design of the course, see the [meta](https://github.com/engineersCode/facultydev1/blob/gh-pages/meta.md) document.
 
 ## Description
 
@@ -86,6 +86,9 @@ This trend has missed important feature of free and open-source software: open d
 
 This portion of the workshop will help you answer the question: _"Why open education?"_ Open teaching and learning practices actively promote rich networks, lively communities, and fertile connections. That is the pedagogy of openness.
 
+### How to teach with our Jupyter notebooks
+
+### How to develop your own content with Jupyter
 ---
 
 ## Thanks
