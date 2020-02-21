@@ -21,11 +21,15 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 
 ### Time and Location
 
-The workshop will be held over three days on 25–27 March, 2020, at the George Washington University, in Washington, DC. 
+The workshop will be held over three days on 25–27 March, 2020, at the [George Washington University](https://www.gwu.edu), in Washington, DC. 
+We expect arrivals on Wednesday 03/25, for a start with lunch and afternoon activities. After a full day of workshop on the 26, we will finish early afternoon on Friday 03/27 for folks to travel back on that evening. 
+If you are traveling from farther away, and need to stay an extra night, that is OK, too.
+
+We have made a block booking at [ARC The Hotel DC](http://arcthehoteldc.com), 824 New Hampshire Ave NW, Washington, D.C. 20037. The hotel will bill us directly for your stay.
 
 ### Funding
 
-Funding is available to cover all costs of 20 or more participants (depending on actual travel costs), including: airfare and ground travel, lodging in Washington, and all meals. 
+Funding is available to cover all costs of 20 to 25 participants (depending on actual travel costs), including: airfare and ground travel, lodging in Washington, and all meals. 
 
 ### Who is this for?
 
@@ -36,8 +40,9 @@ We will use Python and Jupyter as the programming language and environment.
 
 ### Presenters
 
-- [Lorena A. Barba](https://lorenabarba.com)
-- [Kyle Niemeyer](https://niemeyer-research-group.github.io)
+- [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at labarba@gwu.edu.
+
+- [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
 - [Jed Brown](https://jedbrown.org)
 - TBA
 
