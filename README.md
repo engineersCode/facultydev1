@@ -17,6 +17,10 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 
 > [Apply for funding to participate via a simple form.](https://forms.gle/Azkzw8PiVu5LALWDA)
 
+### Why "Engineers Code"?
+
+**This workshop is open to any STEM faculty**, not just engineers. We use the label _"Engineers Code"_ in a project that is developing open learning modules (see our [repository on GitHub](https://github.com/engineersCode/EngComp)), and the [#EngineersCode](https://twitter.com/hashtag/engineerscode?f=live) hashtag on Twitter to announce newly released content, and invite a community. So we're simply reusing this moniker here for fun and giggles.
+
 ## Details
 
 ### Time and Location
