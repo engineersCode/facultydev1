@@ -12,10 +12,10 @@ This workshop is for STEM faculty who want to transform their teaching through i
 The presenters are faculty members who have been using computing in their teaching for years, and are eager to share what we have learned. 
 We also want to invite you to be part of a growing community of educators who discovered that modern tools, and new ways of collaborating, can supercharge teaching and learning. 
 
-This is a sponsored workshop, and we are able to offer full travel support (including lodging and food) for 20 or more participants. 
+This is a sponsored workshop, and we are able to offer _full travel support_ (including lodging and food) for 20 or more participants. 
 Our sponsor is **Leidos, Inc.**, with additional support from the National Science Foundation through a grant to Prof. Lorena A. Barba.
 
-> Apply for funding to participante via a simple form.
+> [Apply for funding to participate via a simple form.](https://forms.gle/Azkzw8PiVu5LALWDA)
 
 ## Details
 
@@ -91,7 +91,7 @@ This portion of the workshop will help you answer the question: _"Why open educa
 
 ## Thanks
 
-This workshop is sponsored by Leidos, Inc. Additional support by the National Science Foundation, via a grant to Prof. Lorena A. Barba, at the George Washington University.
+This workshop is sponsored by Leidos, Inc. Additional support by the National Science Foundation, through award 1730170 to Prof. Lorena A. Barba at the George Washington University.
 
 
 ## Credit
