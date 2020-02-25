@@ -3,8 +3,9 @@ layout: default
 permalink: /
 ---
 
-# Engineers Code: Computing for Teaching and Learning. A Workshop for STEM Faculty.
+# Computing for Teaching and Learning. A Workshop for STEM Faculty.
 
+> 25–27 March 2020, The George Washington University, Washignton DC
 
 ## Description
 
@@ -17,9 +18,9 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 
 > [Apply for funding to participate via a simple form.](https://forms.gle/Azkzw8PiVu5LALWDA)
 
-### Why "Engineers Code"?
+### What is "Engineers Code"?
 
-**This workshop is open to any STEM faculty**, not just engineers. We use the label _"Engineers Code"_ in a project that is developing open learning modules (see our [repository on GitHub](https://github.com/engineersCode/EngComp)), and the [#EngineersCode](https://twitter.com/hashtag/engineerscode?f=live) hashtag on Twitter to announce newly released content, and invite a community. So we're simply reusing this moniker here for fun and giggles.
+**This workshop is open to any STEM faculty**, not just engineers.  We use the label _"Engineers Code"_ in a project that is developing open learning modules (see our [repository on GitHub](https://github.com/engineersCode/EngComp)), and the [#EngineersCode](https://twitter.com/hashtag/engineerscode?f=live) hashtag on Twitter to announce newly released content, and invite a community. 
 
 ## Details
 
@@ -47,7 +48,7 @@ We will use Python and Jupyter as the programming language and environment.
 - [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at labarba@gwu.edu.
 
 - [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
-- [Jed Brown](https://jedbrown.org)
+- [Jed Brown](https://jedbrown.org) is an assistant professor of computer science at the University of Colorado Boulder. His research interests are in fast algorithms, and robust community software for physically-based modeling, prediction, inference and design.
 - TBA
 
 ## Content Overview
