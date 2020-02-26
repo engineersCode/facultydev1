@@ -5,7 +5,7 @@ permalink: /
 
 # Computing for Teaching and Learning. A Workshop for STEM Faculty.
 
-> 25–27 March 2020, The George Washington University, Washignton DC
+> 25–27 March 2020, The George Washington University, Washington DC
 
 ## Description
 
@@ -49,7 +49,7 @@ We will use Python and Jupyter as the programming language and environment.
 - [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at labarba@gwu.edu.
 
 - [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
-- [Jed Brown](https://jedbrown.org) is an assistant professor of computer science at the University of Colorado Boulder. His research interests are in fast algorithms, and robust community software for physically-based modeling, prediction, inference and design.
+- [Bryan Weber](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics. Contact him at [bryan@bryanwweber.com](mailto:bryan@bryanwweber.com).
 - Guest speakers to be announced.
 
 ## Content Overview
@@ -101,7 +101,7 @@ The presenters in this workshop have developed openly licensed material that is 
 ### Write your own content with Jupyter
 
 Developing original content using Jupyter is fun! We have learned many tricks that could be helpful to participants: how to use version control with Jupyter notebooks, how to collaborate with others, how to build lessons using good instructional design, and how to share the materials with students. 
-We will give an introduction to using GitHub to organie your class materials, and to track the progress of your development using the project-management tools provided by GitHub.
+We will give an introduction to using GitHub to organize your class materials, and to track the progress of your development using the project-management tools provided by GitHub.
 We'll also discuss some of the tools we use to develop student assignments using Jupyter, particularly to get these assignments auto-graded.
 
 ### Guest presentations
