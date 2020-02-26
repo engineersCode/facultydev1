@@ -108,11 +108,16 @@ We'll also discuss some of the tools we use to develop student assignments using
 
 To be announced.
 
+## References
+
+- [Teaching and Learning with Jupyter](http://go.gwu.edu/jupyter4edu), an open book (2019). Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zinga
+- Engineers Code: reusable open learning modules for engineering computations, Lorena A. Barba. _Computing in Science and Engineering_, [doi:10.1109/MCSE.2020.2976002](http://doi.org/10.1109/MCSE.2020.2976002)
+
 ---
 
 ## Thanks
 
-This workshop is sponsored by Leidos, Inc. Additional support by the National Science Foundation, through award 1730170 to Prof. Lorena A. Barba at the George Washington University.
+This workshop is sponsored by **Leidos, Inc**. Additional support by the National Science Foundation, through award 1730170 to Prof. Lorena A. Barba at the George Washington University.
 
 
 ## Credit
