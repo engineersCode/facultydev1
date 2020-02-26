@@ -115,6 +115,12 @@ To be announced.
 
 ---
 
+## Spring in Washington!
+
+<img src="asssets/blossoms_dc.png" />
+
+Photo by [Ridwan Meah](https://unsplash.com/@riddywankenobi) on Unsplash
+
 ## Thanks
 
 This workshop is sponsored by **Leidos, Inc**. Additional support by the National Science Foundation, through award 1730170 to Prof. Lorena A. Barba at the George Washington University.
