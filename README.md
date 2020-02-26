@@ -106,7 +106,16 @@ We'll also discuss some of the tools we use to develop student assignments using
 
 ### Guest presentations
 
-To be announced.
+#### David Lippert
+
+David will give a 30-min presentation, targeting:
+
+- Why it matters to employers that we change teaching practices so all graduates are conversant with computational approaches to problem-solving, essentials of data science, and various modern tools of technology. 
+- The room where it happens. The questions we ask in interviews and how we make the decision to hire entry level candidates
+
+**Bio**: David Lippert is a software engineer at [Leidos](https://www.leidos.com) in Arlington, Virginia.  He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge.  He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
+
+_Other guest talks to be announced._
 
 ## References
 
