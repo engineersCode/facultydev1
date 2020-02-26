@@ -5,7 +5,7 @@ permalink: /
 
 # Computing for Teaching and Learning. A Workshop for STEM Faculty.
 
-> 25–27 March 2020, The George Washington University, Washignton DC
+> 25–27 March 2020, The George Washington University, Washington DC
 
 ## Description
 
@@ -101,7 +101,7 @@ The presenters in this workshop have developed openly licensed material that is 
 ### Write your own content with Jupyter
 
 Developing original content using Jupyter is fun! We have learned many tricks that could be helpful to participants: how to use version control with Jupyter notebooks, how to collaborate with others, how to build lessons using good instructional design, and how to share the materials with students. 
-We will give an introduction to using GitHub to organie your class materials, and to track the progress of your development using the project-management tools provided by GitHub.
+We will give an introduction to using GitHub to organize your class materials, and to track the progress of your development using the project-management tools provided by GitHub.
 We'll also discuss some of the tools we use to develop student assignments using Jupyter, particularly to get these assignments auto-graded.
 
 ### Guest presentations
