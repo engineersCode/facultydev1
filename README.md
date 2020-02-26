@@ -117,7 +117,7 @@ To be announced.
 
 ## Spring in Washington!
 
-<img src="assets/blossoms_dc.png" />
+<img src="assets/blossoms_dc.png" width=800 px/>
 
 Photo by [Ridwan Meah](https://unsplash.com/@riddywankenobi) on Unsplash
 
