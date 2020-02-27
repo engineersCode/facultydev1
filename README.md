@@ -116,6 +116,14 @@ David will give a 30-min presentation, targeting:
 
 **Bio**: David Lippert is a software engineer at [Leidos](https://www.leidos.com) in Arlington, Virginia.  He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge.  He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
 
+#### Olivier Mesnard, Natalia Clementi
+
+Olivier and Natalia are senior graduate students in Barba's group. They have contributed to the educational mission of the group by co-authoring content, acting as teaching assistants, writing assignments, and more. 
+They will lead an interactive session on:
+
+- Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
+- Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
+
 _Other guest talks to be announced._
 
 ## References and resources
