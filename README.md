@@ -9,7 +9,7 @@ permalink: /
 
 ## Description
 
-This workshop is for STEM faculty who want to transform their teaching through integrating computing in the content, process, and design of their courses. 
+**This workshop is for STEM faculty who want to transform their teaching through integrating computing in the content, process, and design of their courses.**
 
 The presenters are faculty members who have been using computing in their teaching for years, and are eager to share what we have learned. 
 We also want to invite you to be part of a growing community of educators who discovered that modern tools, and new ways of collaborating, can supercharge teaching and learning. 
@@ -46,9 +46,9 @@ We will use Python and Jupyter as the programming language and environment.
 
 ### Presenters
 
-- [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at labarba@gwu.edu.
+- [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at [labarba@gwu.edu](labarba@gwu.edu).
 
-- [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
+- [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. Contact him at [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu).
 - [Bryan Weber](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics. Contact him at [bryan@bryanwweber.com](mailto:bryan@bryanwweber.com).
 - Guest speakers to be announced.
 
@@ -64,6 +64,7 @@ A lot has been said about "computational thinking" and how it might be taught. W
 
 ### Teaching and Learning with Jupyter
 
+![](assets/jupyter_logo.png)
 [Jupyter](https://jupyter.org) is an open-source software project, including an ecosystem of tools for interactive computing. 
 At the center of this ecosystem is the Jupyter Notebook, a file format that allows for the coexistence of regular text-based content, multi-media content, and computation with its live output. 
 Since the prelude project, IPython Notebooks, STEM educators have found exciting opportunities to use computational notebooks to present technical materials for students to explore. 
@@ -89,7 +90,7 @@ The predominant narratives about OER emphasize _content_, created to favor acces
 But, unlike in open-source software, very little reuse occurs. 
 This trend has missed important features of free and open-source software: open development, networked collaboration, community, and a value-based framework.
 
-"Openness is about the possibilities of communicating with other people. It’s not about stuff, what you do with stuff. It’s about what you do with each other," said Stephen Downes in a short [video](https://youtu.be/FPHYAFcUziA) from 2017. 
+"Openness is about the possibilities of communicating with other people. It’s not about _stuff_, what you do with _stuff_. It’s about what you do with each other," said Stephen Downes in a short [video](https://youtu.be/FPHYAFcUziA) from 2017. 
 
 > This portion of the workshop will help you answer the question: _"Why open education?"_ It will introduce you to the open-source development model, and how open teaching and learning practices actively promote rich networks, lively communities, and fertile connections. That is the pedagogy of openness!
 
@@ -117,7 +118,7 @@ David will give a 30-min presentation, targeting:
 
 _Other guest talks to be announced._
 
-## References
+## References and resources
 
 - [Teaching and Learning with Jupyter](http://go.gwu.edu/jupyter4edu), an open book (2019). Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zinga
 - Engineers Code: reusable open learning modules for engineering computations, Lorena A. Barba. _Computing in Science and Engineering_, [doi:10.1109/MCSE.2020.2976002](http://doi.org/10.1109/MCSE.2020.2976002)
