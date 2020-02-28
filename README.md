@@ -65,6 +65,7 @@ A lot has been said about "computational thinking" and how it might be taught. W
 ### Teaching and Learning with Jupyter
 
 ![](assets/jupyter_logo.png)
+
 [Jupyter](https://jupyter.org) is an open-source software project, including an ecosystem of tools for interactive computing. 
 At the center of this ecosystem is the Jupyter Notebook, a file format that allows for the coexistence of regular text-based content, multi-media content, and computation with its live output. 
 Since the prelude project, IPython Notebooks, STEM educators have found exciting opportunities to use computational notebooks to present technical materials for students to explore. 
@@ -130,6 +131,9 @@ _Other guest talks to be announced._
 
 - [Teaching and Learning with Jupyter](http://go.gwu.edu/jupyter4edu), an open book (2019). Lorena A. Barba, Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, and Michael Zinga
 - Engineers Code: reusable open learning modules for engineering computations, Lorena A. Barba. _Computing in Science and Engineering_, [doi:10.1109/MCSE.2020.2976002](http://doi.org/10.1109/MCSE.2020.2976002)
+- [How to use Git/GitHub with Jupyter Notebook](https://blog.reviewnb.com/github-jupyter-notebook/), a blog post by Amit Rathi
+- Barba, Lorena A.; Talbert, Robert (2018): Flipped learning with Jupyter: Experiences, best practices, and supporting research. figshare. Presentation. [10.6084/m9.figshare.7001522.v2](https://doi.org/10.6084/m9.figshare.7001522.v2)
+- Barba, Lorena A. (2017): Teaching in STEM Disciplines: Open Source Methods. figshare. Presentation. [10.6084/m9.figshare.5544457.v1](https://doi.org/10.6084/m9.figshare.5544457.v1)
 
 ---
 
