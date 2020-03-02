@@ -28,10 +28,16 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 ### Time and Place
 
 The workshop will be held over three days on 25–27 March, 2020, at the [George Washington University](https://www.gwu.edu), in Washington, DC. 
-We expect arrivals on Wednesday 03/25, for a start with lunch and afternoon activities. After a full day of workshop on the 26, we will finish early afternoon on Friday 03/27 for folks to travel back on that evening. 
+We expect arrivals on Wednesday 03/25, for a start with lunch and afternoon activities. We will finish early afternoon on Friday 03/27 for folks to travel back on that evening. 
 If you are traveling from farther away, and need to stay an extra night, that is OK, too.
 
-We have made a block booking at [ARC The Hotel DC](http://arcthehoteldc.com), 824 New Hampshire Ave NW, Washington, D.C. 20037. The hotel will bill us directly for your stay.
+**Schedule:**
+
+- Wednesday 03/25, 12 noon (lunch provided), 1–5 pm sessions, with break
+- Thursday 03/26, 9:30 am to 5 pm
+- Friday, 03/27, 9:30 am to 2:30 pm
+
+**Hotel**: We have made a block booking at [ARC The Hotel DC](http://arcthehoteldc.com), 824 New Hampshire Ave NW, Washington, D.C. 20037. The hotel will bill us directly for your stay.
 
 ### Funding
 
