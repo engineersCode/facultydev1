@@ -17,7 +17,7 @@ We also want to invite you to be part of a growing community of educators who di
 This is a sponsored workshop, and we are able to offer _full travel support_ (including lodging and food) for 20 or more participants. 
 Our sponsor is **Leidos, Inc.**, with additional support from the National Science Foundation through a grant to Prof. Lorena A. Barba.
 
-> [Apply for funding now to participate](https://forms.gle/Azkzw8PiVu5LALWDA)
+> [Enter your interest to participate and apply for travel funds](https://forms.gle/Azkzw8PiVu5LALWDA)
 
 ### What is "Engineers Code"?
 
