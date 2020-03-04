@@ -114,6 +114,35 @@ We'll also discuss some of the tools we use to develop student assignments using
 
 ### Guest presentations
 
+#### Laura Wrubel, Megan Potterbusch
+
+Laura and Megan are part of [GW Libraries and Academic Innovation](https://lai.gwu.edu), which has been experimenting several models to meet the demand for coding instruction at GW. 
+They turned Prof. Barba's open curriculum, designed for teaching computational thinking foundations to first-year engineering students, into a three-day “Python Camp” open to everybody. 
+Key components of the mini-course are:
+
+- Using the [Carpentries](https://carpentries.org) pedagogical approach, they emphasize live-coding and formative assessment.  
+- Taking advantage of the [Open edX platform’s integration with Jupyter notebooks](https://lorenabarba.com/news/jupyter-based-courses-in-open-edx-authoring-and-grading-with-notebooks/), auto-graded homework assignments, and the library-hosted JupyterHub platform. 
+- Learners who complete course requirements receive a certificate of completion.
+
+**Bios**:
+Megan Potterbusch is a data services librarian at GW.  She works with faculty and student researchers to access, manage, preserve, and share research data including support for understanding best practices and compliance requirements.  As a [Carpentries](https://carpentries.org) instructor, she teaches workshops on Python, version control, data cleaning, and research data management.
+
+Laura Wrubel is a software development librarian at GW. She supports software applications, is a [Carpentries](https://carpentries.org) instructor, and teaches workshops on Python, git, social media data, and computational topics for students, faculty, and library staff. 
+
+
+#### Olivier Mesnard, Natalia Clementi
+
+Olivier and Natalia are senior graduate students in Barba's group at GW. They have contributed to the educational mission of the group by co-authoring content, acting as teaching assistants, writing assignments, and more. 
+They will lead an interactive session on:
+
+- Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
+- Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
+
+**Bios**:
+Olivier Mesnard is a doctoral student at GW, doing research in computational fluid dynamics. He was teaching assistant with Prof. Barba in two graduate courses, which he then taught as instructor of record in 2019. Olivier is co-author of the [AeroPython](https://lorenabarba.com/blog/announcing-aeropython/) lessons in aerodynamics with Python.
+
+Natalia Clementi is a doctoral student at GW, doing research in computational biophysics.
+
 #### David Lippert
 
 David will give a 30-min presentation, targeting:
@@ -123,13 +152,7 @@ David will give a 30-min presentation, targeting:
 
 **Bio**: David Lippert is a software engineer at [Leidos](https://www.leidos.com) in Arlington, Virginia.  He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge.  He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
 
-#### Olivier Mesnard, Natalia Clementi
 
-Olivier and Natalia are senior graduate students in Barba's group. They have contributed to the educational mission of the group by co-authoring content, acting as teaching assistants, writing assignments, and more. 
-They will lead an interactive session on:
-
-- Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
-- Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
 
 _Other guest talks to be announced._
 
