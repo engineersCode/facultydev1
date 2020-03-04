@@ -142,6 +142,7 @@ They will lead an interactive session on:
 Olivier Mesnard is a doctoral student at GW, doing research in computational fluid dynamics. He was teaching assistant with Prof. Barba in two graduate courses, which he then taught as instructor of record in 2019. Olivier is co-author of the [AeroPython](https://lorenabarba.com/blog/announcing-aeropython/) lessons in aerodynamics with Python.
 
 Natalia Clementi is a doctoral student at GW, doing research in computational biophysics.
+She was teaching assistant with Prof. Barba in two undergraduate courses in engineering computations, and is co-author some of the [Engineers Code](https://github.com/engineersCode/EngComp) learning modules
 
 #### David Lippert
 
