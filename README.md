@@ -48,7 +48,9 @@ Funding is available to cover all costs of 20 to 25 participants (depending on a
 This workshop is for faculty at any stage of their career, who are teaching in science, engineering, or related technical fields. 
 The only pre-requisite is that you are still curious and eager to learn, and that you want to empower your students to be successful in this technology driven world of today. 
 You do not need to be an experienced programmer, but you should have familiarity with technical computing.
-We will use Python and Jupyter as the programming language and environment. 
+We will use Python and Jupyter as the programming language and environment.
+
+> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (updated 03/04/2020) 
 
 ### Presenters
 
