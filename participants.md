@@ -81,3 +81,7 @@ She is the main organizer of this workshop.
 ### Abdirisak Mohamed
 
 [Abdirisak](https://ischool.umd.edu/faculty-staff/abdirisak-mohamed) is adjuct faculty in the College of Information Studies, University of Maryland 
+
+### Rahul Simha
+
+[Rahul](https://www.seas.gwu.edu/rahul-simha) is a professor of computer science at the George Washington University, with a long-time interest in STEM education.
