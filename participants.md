@@ -45,6 +45,10 @@ She had a long career in health care, before pivoting to her current teaching ro
 [Kyle](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
 He is a co-organizer of this workshop. 
 
+### Stephanos (Steve) Matsumoto
+
+[Steve](https://www.stevematsumoto.net) is an Assistant Professor of Computer Science and Engineering at the Olin College of Engineering. His research interests are broadly in security and privacy. Steve is especially interested in how we can make practical changes that improve the security of widely-used technology. He is also interested in computing education, particularly in how to build a security mindset in students, as well as how to help students develop good software engineering habits and ethical practices in their work.
+
 ### Jesse Oldroyd
 
 Jesse is assistant professor of mathematics at West Virginia Wesleyan College.
