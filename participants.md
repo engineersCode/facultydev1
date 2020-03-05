@@ -21,10 +21,18 @@ His materials are also available [on Github](https://github.com/bbadzioch/MTH309
 [Francesca](http://www.fbernardi.info) is currently dean's post-doctoral scholar in the Department of Mathematics at Florida State University. 
 She is starting a tenure-track position in Mathematics with affiliation in Mechanical Engineering at the Worcester Polytechnic Institute next Fall.
 
-### Ryan Cooper
+### Ryan C. Cooper
 
-[Ryan](https://me.engr.uconn.edu/blog/faculty/cooper-ryan/) is assistant professor-in-residence at the University of Connecticut Department of Mechanical Engineering. 
-He is now teaching computational mechanics using Jupyter, and his course materials are available [on GitHub](https://github.uconn.edu/rcc02007/Computational_Mechanics).
+[Ryan](https://ryan-c-cooper.uconn.edu) is assistant professor-in-residence at
+the University of Connecticut Department of Mechanical Engineering. He aims to
+stengthen problem-solving skills with project-based learning and numerical
+methods.  He has used Jupyter to enhance learning in Dynamics, Vibrations,
+upper-level undergraduate laboratories, and is now teaching computational
+mechanics using Jupyter. His course materials are available [on GitHub
+Computational
+Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics),
+[Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs),
+and a number of other educational resources at <https://github.uconn.edu>. 
 
 ### Drew Youngren
 
