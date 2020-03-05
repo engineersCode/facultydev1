@@ -6,6 +6,8 @@ layout: default
 
 > 25–27 March 2020, The George Washington University, Washington DC
 
+## [Home](https://engineerscode.github.io/facultydev1/)
+
 ## Funded participants
 
 ### Bernard Badzioch
