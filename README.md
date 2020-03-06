@@ -131,6 +131,17 @@ Megan Potterbusch is a data services librarian at GW.  She works with faculty an
 
 Laura Wrubel is a software development librarian at GW. She supports software applications, is a [Carpentries](https://carpentries.org) instructor, and teaches workshops on Python, git, social media data, and computational topics for students, faculty, and library staff. 
 
+#### Ryan Watkins
+
+Ryan will present on major considerations as you design your courses to leverage technology. Key elements of his talk will include: 
+
+- clarifying what skills students should develop and why, 
+- getting to know your students and their study strategies,
+- planning for how you will assess their knowledge & skills, and
+- creating engaging and motivational activities. 
+
+**Bio**:  [Ryan Watkins](www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods.  He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](www.parsingscience.org), a podcast about the stories behind today’s most compelling science. 
+He also curates [We Share Science](www.wesharescience.com) and [SciencePods](www.sciencepods.com).
 
 #### Olivier Mesnard, Natalia Clementi
 
