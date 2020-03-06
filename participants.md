@@ -19,17 +19,22 @@ His materials are also available [on Github](https://github.com/bbadzioch/MTH309
 ### Francesca Bernardi
 
 [Francesca](http://www.fbernardi.info) is currently dean's post-doctoral scholar in the Department of Mathematics at Florida State University. 
-She is starting a tenure-track position in Mathematics with affiliation in Mechanical Engineering at the Worcester Polytechnic Institute next Fall.
+She is starting a tenure-track position in Mathematics with affiliation in Mechanical Engineering at the Worcester Polytechnic Institute next Fall. 
+Francesca is the co-founder of [Girls Talk Math](https://girlstalkmath.com), a free summer camp for female and gender non-conforming high-school students interested in STEM and Media. The camp now has three locations at the University of North Carolina at Chapel Hill, the University of Maryland at College Park, and the University of California Los Angeles. It includes curriculum built with Jupyter notebooks to learn about number systems, network science, and SIR modeling.
 
 ### Ryan Cooper
 
-[Ryan](https://me.engr.uconn.edu/blog/faculty/cooper-ryan/) is assistant professor-in-residence at the University of Connecticut Department of Mechanical Engineering. 
-He is now teaching computational mechanics using Jupyter, and his course materials are available [on GitHub](https://github.uconn.edu/rcc02007/Computational_Mechanics).
+[Ryan](https://ryan-c-cooper.uconn.edu) is assistant professor-in-residence at the University of Connecticut Department of Mechanical Engineering. 
+He aims to strengthen students’ problem-solving skills by teaching numerical methods with project-based and active learning.
+He teaches computational mechanics, dynamics, vibrations, and senior design.
+He is using Jupyter in the computational mechanics course, and his materials are available [on GitHub](https://github.uconn.edu/rcc02007/Computational_Mechanics). 
+Follow him on Twitter: [@cooperrc84](https://twitter.com/cooperrc84)
+
 
 ### Drew Youngren
 
-[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University. 
-He is now teaching Multivariable Calculus for Engineers and Applied Scientists.
+[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics. 
+He is now teaching Multivariable Calculus for Engineers and Applied Scientists, and his materials are available [on GitHub](https://github.com/drewyoungren/mvc-sp20).
 
 ### Sara Hashmi
 
@@ -68,7 +73,7 @@ He is a co-organizer of this workshop.
 
 ### Patrick White
 
-Patrick teaches mathematics and artificial intelligence at the Thomas Jefferson High School for Science and technology.
+Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jefferson High School for Science and Technology in Alexandria, VA. He mentors student senior research projects, teaches Artificial Intelligence and is designing a new Machine Learning course for next year. He is deploying Jupyter schoolwide for use in computer science classes and is very interested in helping class instructors bring meaningful technology to their classrooms. He received his PhD in Theoretical Computer Science from Cornell University and has been at TJHHST for five years.
 
 ### Benjamin Woolson
 
