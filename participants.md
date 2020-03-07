@@ -103,11 +103,13 @@ She is the main organizer of this workshop.
 
 ### Richard Marciano
 
-[Richard](https://ischool.umd.edu/faculty-staff/richard-marciano) is professor and director of the Digital Curation Innovation Center, University of Maryland 
+[Richard](https://ischool.umd.edu/faculty-staff/richard-marciano) is a professor in the College of Information Studies at the University of Maryland, with research interests in digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data. He is piloting an online collaborative network for integrating computational thinking into library and archival education and practice using Jupyter Notebooks.
 
 ### Abdirisak Mohamed
 
-[Abdirisak](https://ischool.umd.edu/faculty-staff/abdirisak-mohamed) is adjuct faculty in the College of Information Studies, University of Maryland 
+[Abdirisak](https://ischool.umd.edu/faculty-staff/abdirisak-mohamed) is adjuct faculty in the College of Information Studies, University of Maryland. 
+He teaches courses in data science and is interested
+in tooling and infrastructure for data science education, e.g.,  the computational infrastructure in the cloud, JupyterHub and autograding student assignments. 
 
 ### Rahul Simha
 
