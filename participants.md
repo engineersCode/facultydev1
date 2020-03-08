@@ -12,10 +12,9 @@ layout: default
 
 ### Bernard Badzioch
 
-[Bernard](http://www.buffalo.edu/cas/math/people/faculty/badzioch.html) is an associate professor of mathematics, University at Buffalo. 
-He recently created the course ["Introduction to Linear Algebra"](https://learning.buffalo.edu/courses/course-v1:UBx+MTH309+2019_FA/course/) using Jupyter notebooks in the BUx Open edX platform. 
+[Bernard](http://www.buffalo.edu/cas/math/people/faculty/badzioch.html) is an associate professor of mathematics, University at Buffalo.
+He recently created the course ["Introduction to Linear Algebra"](https://learning.buffalo.edu/courses/course-v1:UBx+MTH309+2019_FA/course/) using Jupyter notebooks in the BUx Open edX platform.
 His materials are also available [on Github](https://github.com/bbadzioch/MTH309_F2019).
-
 
 ### Francesca Bernardi
 
@@ -40,7 +39,7 @@ Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics)
 
 ### Drew Youngren
 
-[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics. 
+[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics.
 He is now teaching Multivariable Calculus for Engineers and Applied Scientists, and his materials are available [on GitHub](https://github.com/drewyoungren/mvc-sp20).
 
 ### Sara Hashmi
@@ -49,15 +48,14 @@ He is now teaching Multivariable Calculus for Engineers and Applied Scientists, 
 
 ### Sally Lucci
 
-[Sally](https://medicine.hsc.wvu.edu/who-we-are/faculty-staff/sally-lucci/) is the founding program director and an assistant professor in health informatics and information management at West Virginia University. 
-She had a long career in health care, before pivoting to her current teaching role in an undergraduate degree that combines business with science and information technology. 
+[Sally](https://medicine.hsc.wvu.edu/who-we-are/faculty-staff/sally-lucci/) is the founding program director and an assistant professor in health informatics and information management at West Virginia University.
+She had a long career in health care, before pivoting to her current teaching role in an undergraduate degree that combines business with science and information technology.
 
 ### Kyle Niemeyer
 
-[Kyle](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. 
-He is a co-organizer of this workshop. 
+[Kyle](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing.
+He is a co-organizer of this workshop.
 Follow him on Twitter: [@kyleniemeyer](https://twitter.com/kyleniemeyer)
-
 
 ### Stephanos (Steve) Matsumoto
 
@@ -73,14 +71,13 @@ Jesse is assistant professor of mathematics at West Virginia Wesleyan College.
 
 ### Julie Smith
 
-[Julie](https://www.linkedin.com/in/julie-smith-25b073184/) is a curriculum developer, now pursuing a PhD in learning technologies at the University of North Texas. 
+[Julie](https://www.linkedin.com/in/julie-smith-25b073184/) is a curriculum developer, now pursuing a PhD in learning technologies at the University of North Texas.
 She has worked in K12 education in various capacities for the last two decades. Relatively new to the field of computer science, her doctoral work is focused on computer science education. Her interests include improving curriculum for underrepresented students.
-
 
 ### Bryan Weber
 
-[Bryan](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics. 
-He is a co-organizer of this workshop. 
+[Bryan](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics.
+He is a co-organizer of this workshop.
 
 ### Patrick White
 
@@ -88,19 +85,19 @@ Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jeffers
 
 ### Benjamin Woolson
 
-[Brian](https://coe.northeastern.edu/people/woolston-benjamin/) is an assistant professor of chemical engineering at Northeastern University. 
+[Brian](https://coe.northeastern.edu/people/woolston-benjamin/) is an assistant professor of chemical engineering at Northeastern University.
 He teaches a course in Bioprocess Engineering, where he uses Jupyter notebook to introduce his students to Python tools for analysis and design of biological processes. His course materials are [on GitHub](https://github.com/NUChemE/chme5630).
 
 ## Local DC-area participants
 
 ### Lorena A. Barba
-[Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. 
-She is the main organizer of this workshop. 
+
+[Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing. Barba received a PhD in aeronautics from the California Institute of Technology.
+She is the main organizer of this workshop.
 
 ### Diana Goldemberg
 
 [Diana](https://www.minerva.kgi.edu/people/diana-goldemberg-phd/) is an assistant professor of economics in the Minerva Schools at KGI.
-
 
 ### Sara Hooshangi
 
