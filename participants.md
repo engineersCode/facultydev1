@@ -25,14 +25,15 @@ She is starting a tenure-track position in Mathematics with affiliation in Mecha
 
 [Ryan](https://ryan-c-cooper.uconn.edu) is assistant professor-in-residence at
 the University of Connecticut Department of Mechanical Engineering. He aims to
-stengthen problem-solving skills with project-based learning and numerical
-methods.  He has used Jupyter to enhance learning in Dynamics, Vibrations,
+strengthen problem-solving skills with project-based learning and numerical
+methods. He has used Jupyter to enhance learning in Dynamics, Vibrations,
 upper-level undergraduate laboratories, and is now teaching computational
-mechanics using Jupyter. His course materials are available [on GitHub
-Computational
-Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics),
-[Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs),
-and a number of other educational resources at <https://github.uconn.edu>. 
+mechanics using Jupyter. His course materials are available on GitHub:
+
+* [Computational
+Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics)
+* [Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs)
+* A number of other educational resources at <https://github.uconn.edu/rcc02007>
 
 ### Drew Youngren
 
