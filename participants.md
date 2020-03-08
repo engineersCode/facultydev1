@@ -24,14 +24,19 @@ She is starting a tenure-track position in Mathematics with affiliation in Mecha
 Francesca is the co-founder of [Girls Talk Math](https://girlstalkmath.com), a free summer camp for female and gender non-conforming high-school students interested in STEM and Media. The camp now has three locations at the University of North Carolina at Chapel Hill, the University of Maryland at College Park, and the University of California Los Angeles. It includes curriculum built with Jupyter notebooks to learn about number systems, network science, and SIR modeling.
 Follow her on Twitter: [@fra_berni](https://twitter.com/fra_berni).
 
-### Ryan Cooper
+### Ryan C. Cooper
 
-[Ryan](https://ryan-c-cooper.uconn.edu) is assistant professor-in-residence at the University of Connecticut Department of Mechanical Engineering. 
-He aims to strengthen students’ problem-solving skills by teaching numerical methods with project-based and active learning.
-He teaches computational mechanics, dynamics, vibrations, and senior design.
-He is using Jupyter in the computational mechanics course, and his materials are available [on GitHub](https://github.uconn.edu/rcc02007/Computational_Mechanics). 
-Follow him on Twitter: [@cooperrc84](https://twitter.com/cooperrc84)
+[Ryan](https://ryan-c-cooper.uconn.edu) is assistant professor-in-residence at
+the University of Connecticut Department of Mechanical Engineering. He aims to
+strengthen problem-solving skills with project-based learning and numerical
+methods. He has used Jupyter to enhance learning in Dynamics, Vibrations,
+upper-level undergraduate laboratories, and is now teaching computational
+mechanics using Jupyter. His course materials are available on GitHub:
 
+* [Computational
+Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics)
+* [Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs)
+* A number of other educational resources at <https://github.uconn.edu/rcc02007>
 
 ### Drew Youngren
 
