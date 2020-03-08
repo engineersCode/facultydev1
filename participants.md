@@ -78,6 +78,11 @@ She has worked in K12 education in various capacities for the last two decades. 
 
 [Bryan](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics.
 He is a co-organizer of this workshop.
+Bryan has developed several packages that use Jupyter Notebooks for his classes:
+
+* [ThermoState](https://thermostate.readthedocs.io) for thermodynamic property evaluation
+* [convert_and_download](https://github.com/bryanwweber/convert_and_download) to download multiple Notebooks as a single PDF
+* [thermohw](https://github.com/bryanwweber/thermohw) to manage generating homework assignments and solutions from Jupyter Notebooks
 
 ### Patrick White
 
