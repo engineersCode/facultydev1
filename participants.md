@@ -60,7 +60,8 @@ Follow him on Twitter: [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 
 ### Jesse Oldroyd
 
-Jesse is assistant professor of mathematics at West Virginia Wesleyan College.
+Jesse is assistant professor of mathematics at West Virginia Wesleyan College. 
+He teaches lower and upper division undergraduate mathematics courses, and recently started incorporating tools such as Jupyter notebooks in some courses, both for lecture notes and class activities. He is particularly interested in creating interactive materials that serve as "lab manuals" to illustrate and expand on concepts from lecture.
 
 ### Steve Singleton
 
