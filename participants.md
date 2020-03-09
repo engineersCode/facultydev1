@@ -10,6 +10,11 @@ layout: default
 
 ## Funded participants
 
+### Jeremy Abramson
+
+[Jeremy](https://www.isi.edu/people/abramson/about) is a Research Computer Scientist at The University of Southern California’s Information Sciences Institute, and a lecturer in USC’s Data Science program. He uses Jupyter extensively for lectures and labs in his data science courses at USC. When he’s not teaching or working in cybersecurity research, he’s probably dabbling in his true passion, sports analytics. He recently taught a course in sports analytics (using Jupyter!) in UCLA’s Master of Science in Business Analysis program, and is looking to extend those lectures into a textbook.
+Follow him on Twitter at [@jeremyabramson](https://twitter.com/jeremyabramson).
+
 ### Bernard Badzioch
 
 [Bernard](http://www.buffalo.edu/cas/math/people/faculty/badzioch.html) is an associate professor of mathematics, University at Buffalo.
