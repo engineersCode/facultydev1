@@ -44,7 +44,7 @@ He is now teaching Multivariable Calculus for Engineers and Applied Scientists, 
 
 ### Sara Hashmi
 
-[Sara]() is an Assistant Professor of Chemical Engineering at Northeastern University
+[Sara](https://coe.northeastern.edu/people/hashmi-sara-m/) is an assistant professor of Chemical Engineering at Northeastern University, where her lab group studies complex fluids and soft materials. She teaches graduate transport for chemical engineers, and seeks to introduce finite-element solution methods in additional to analytical ones.  She is also interested in incorporating interactive, online tools into her broader impacts and scientific outreach efforts.  
 
 ### Sally Lucci
 
@@ -91,7 +91,7 @@ Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jeffers
 
 ### Benjamin Woolson
 
-[Brian](https://coe.northeastern.edu/people/woolston-benjamin/) is an assistant professor of chemical engineering at Northeastern University.
+[Benjamin](https://coe.northeastern.edu/people/woolston-benjamin/) is an assistant professor of chemical engineering at Northeastern University.
 He teaches a course in Bioprocess Engineering, where he uses Jupyter notebook to introduce his students to Python tools for analysis and design of biological processes. His course materials are [on GitHub](https://github.com/NUChemE/chme5630).
 
 ## Local DC-area participants
