@@ -75,6 +75,13 @@ He teaches lower and upper division undergraduate mathematics courses, and recen
 [Julie](https://www.linkedin.com/in/julie-smith-25b073184/) is a curriculum developer, now pursuing a PhD in learning technologies at the University of North Texas.
 She has worked in K12 education in various capacities for the last two decades. Relatively new to the field of computer science, her doctoral work is focused on computer science education. Her interests include improving curriculum for underrepresented students.
 
+### Aaron Titus
+
+[Aaron](http://physics.highpoint.edu/~atitus/) is a professor of physics at High Point University.
+He has taught modeling with VPython (to compute orbits and fields, for example) as part of my introductory physics course since 2003.
+At HPU, computing is being integrated in every course of the physics curriculum.
+Follow him on Twitter: [@aaronptitus](https://twitter.com/aaronptitus).
+
 ### Bryan Weber
 
 [Bryan](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics.
