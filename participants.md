@@ -66,6 +66,10 @@ Follow him on Twitter: [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 Jesse is assistant professor of mathematics at West Virginia Wesleyan College. 
 He teaches lower and upper division undergraduate mathematics courses, and recently started incorporating tools such as Jupyter notebooks in some courses, both for lecture notes and class activities. He is particularly interested in creating interactive materials that serve as "lab manuals" to illustrate and expand on concepts from lecture.
 
+### David Proctor 
+
+David is adjunct faculty in chemistry at Saginaw Valley State University and Mid Michigan College, where he teaches introductory, general and organic chemistry. Previously, he was a Scientific Review Officer with CSRA Inc., where he managed peer review for the Congressionally Directed Medical Research Programs, and a AAAS Science & Technology Policy Fellow working on scientific software infrastructure at the National Science Foundation.  He is currently exploring Jupyter Notebooks as a platform for engaging students.
+
 ### Steve Singleton
 
 [Steve](https://www.coe.edu/academics/majors-areas-study/chemistry/faculty) is a professor of chemistry at Coe College and contributor to the POGIL project. He has incorporated computing in undergraduate teaching of quantum mechanics, kinetics, and thermodynamics since the 1900s, but in recent years has adopted Python/Jupyter for the classroom. Python is also used by his research students for data analysis, instrument control, and computational chemistry.
