@@ -11,13 +11,22 @@ permalink: /
 
 **This workshop is for STEM faculty who want to transform their teaching through integrating computing in the content, process, and design of their courses.**
 
-The presenters are faculty members who have been using computing in their teaching for years, and are eager to share what we have learned. 
+The presenters are instructors who have been using computing in their teaching for years, and are eager to share what we have learned. 
 We also want to invite you to be part of a growing community of educators who discovered that modern tools, and new ways of collaborating, can supercharge teaching and learning. 
 
 This is a sponsored workshop, and we are able to offer _full travel support_ (including lodging and food) for 20 or more participants. 
 Our sponsor is **Leidos, Inc.**, with additional support from the National Science Foundation through a grant to Prof. Lorena A. Barba.
 
 > [Enter your interest to participate and apply for travel funds](https://forms.gle/Azkzw8PiVu5LALWDA)
+
+### Notice on COVID-19
+
+[Updated March 10] As of today, we are still planning the event for 25–27 March, in the knowledge that we may be forced to postpone it.
+We are reviewing the situation every day.
+Just over 15 participants are confirmed who are traveling in, and about 10 will be local to the DC area.
+This will be a small gathering—and our auditorium sits 70, so we can even spread out!
+As such, it is low risk, but we will follow the guidance of local authorities.
+
 
 ### What is "Engineers Code"?
 
