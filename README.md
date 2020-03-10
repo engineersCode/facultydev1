@@ -50,7 +50,7 @@ The only pre-requisite is that you are still curious and eager to learn, and tha
 You do not need to be an experienced programmer, but you should have familiarity with technical computing.
 We will use Python and Jupyter as the programming language and environment.
 
-> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (updated 03/04/2020) 
+> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (updated 03/09/2020) 
 
 ### Presenters
 
