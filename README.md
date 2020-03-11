@@ -5,7 +5,17 @@ permalink: /
 
 # Computing for Teaching and Learning. A Workshop for STEM Faculty.
 
-> 25–27 March 2020, The George Washington University, Washington DC
+> POSTPONED—was 25–27 March 2020, The George Washington University, Washington DC
+> 
+> 
+
+### Notice on COVID-19
+
+[Updated March 11] 
+**—The workshop has been postponed.**
+Just today, GW issued new guidance encouraging social distancing, including cancellation of gatherings at the university and the sharing of food and drink.
+The WHO has declared COVID-19 a pandemic, and many other experts insist on social distancing as necessary measure.
+Therefore, we cannot hold our workshop as planned, and are looking into new dates.
 
 ## Description
 
@@ -19,13 +29,6 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 
 > [Enter your interest to participate and apply for travel funds](https://forms.gle/Azkzw8PiVu5LALWDA)
 
-### Notice on COVID-19
-
-[Updated March 10] As of today, we are still planning the event for 25–27 March, in the knowledge that we may be forced to postpone it.
-We are reviewing the situation every day.
-Just over 15 participants are confirmed who are traveling in, and about 10 will be local to the DC area.
-This will be a small gathering—and our auditorium sits 70, so we can even spread out!
-As such, it is low risk, but we will follow the guidance of local authorities.
 
 
 ### What is "Engineers Code"?
