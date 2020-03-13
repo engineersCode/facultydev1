@@ -190,7 +190,7 @@ _Other guest talks to be announced._
 - Barba, Lorena A.; Talbert, Robert (2018): Flipped learning with Jupyter: Experiences, best practices, and supporting research. figshare. Presentation. [10.6084/m9.figshare.7001522.v2](https://doi.org/10.6084/m9.figshare.7001522.v2)
 - Barba, Lorena A. (2017): Teaching in STEM Disciplines: Open Source Methods. figshare. Presentation. [10.6084/m9.figshare.5544457.v1](https://doi.org/10.6084/m9.figshare.5544457.v1)
 - Weber, Bryan W. (2019): "Climbing Bloom's Taxonomy With Jupyter Notebooks: Experiences in Mechanical Engineering," in Volume 5: Engineering Education, Salt Lake City, Utah, USA, 2019, p. V005T07A022, doi: [10.1115/IMECE2019-10615](https://doi.org/10.1115/IMECE2019-10615). Preprint available: [10.31224/osf.io/cxema](https://doi.org/10.31224/osf.io/cxema)
-
+- Wilson, Greg: ["Teaching Tech Togehter"](https://third-bit.com/2018/07/15/teaching-tech-together.html), an open book, July 15, 2018.
 
 ---
 
