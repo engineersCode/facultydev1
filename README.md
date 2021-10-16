@@ -3,19 +3,23 @@ layout: default
 permalink: /
 ---
 
-# Computing for Teaching and Learning. A Workshop for STEM Faculty.
+# Jupyter for Teaching and Learning
+### A Workshop for STEM Faculty. December 1–3, 2021, Washington, DC.
 
-> POSTPONED—was 25–27 March 2020, The George Washington University, Washington DC
-> 
-> 
+> Twenty one months after the originally planned dates of 25–27 March 2020.
+> We did not give up!
 
-### Notice on COVID-19
+### Notices on COVID-19
+[Oct. 16, 2021]
+— From Sep. 27, GW requires that all visitors attest that they are vaccinated, or if they are unvaccinated, attest that they have received a negative COVID-19 test within 72 hours of their visit to campus.
+Visitors will need to register at [go.gwu.edu/visitor](http://go.gwu.edu/visitor), complete a symptom screening form, and present their registration form to the campus host on arrival.
+Masks are required indoors.
 
-[Updated March 11] 
-**—The workshop has been postponed.**
-Just today, GW issued new guidance encouraging social distancing, including cancellation of gatherings at the university and the sharing of food and drink.
-The WHO has declared COVID-19 a pandemic, and many other experts insist on social distancing as necessary measure.
-Therefore, we cannot hold our workshop as planned, and are looking into new dates.
+[March 11, 2020] 
+—The workshop has been postponed.
+Today, GW issued new guidance encouraging social distancing, including cancellation of gatherings at the university and the sharing of food and drink.
+The WHO has declared COVID-19 a pandemic, and experts insist on social distancing as necessary measure.
+Therefore, we cannot hold our workshop as planned.
 
 ## Description
 
@@ -39,15 +43,15 @@ Our sponsor is **Leidos, Inc.**, with additional support from the National Scien
 
 ### Time and Place
 
-The workshop will be held over three days on 25–27 March, 2020, at the [George Washington University](https://www.gwu.edu), in Washington, DC. 
-We expect arrivals on Wednesday 03/25, for a start with lunch and afternoon activities. We will finish early afternoon on Friday 03/27 for folks to travel back on that evening. 
+The workshop will be held over three days on 1–3 December 2021, at the [George Washington University](https://www.gwu.edu), in Washington, DC. 
+We expect arrivals on Wednesday 12/01, for a start with light lunch and afternoon activities. We will finish early afternoon on Friday 12/03 for folks to travel back on that evening. 
 If you are traveling from farther away, and need to stay an extra night, that is OK, too.
 
 **Schedule:**
 
-- Wednesday 03/25, 12 noon (lunch provided), 1–5 pm sessions, with break
-- Thursday 03/26, 9:30 am to 5 pm
-- Friday, 03/27, 9:30 am to 2:30 pm
+- Wednesday 12/01 12:30 (light lunch provided), 2–5 pm sessions, with break
+- Thursday 12/02, 9:30 am to 5 pm
+- Friday, 12/03, 9:30 am to 2:30 pm
 
 **Hotel**: We have made a block booking at [ARC The Hotel DC](http://arcthehoteldc.com), 824 New Hampshire Ave NW, Washington, D.C. 20037. The hotel will bill us directly for your stay.
 
@@ -62,13 +66,13 @@ The only pre-requisite is that you are still curious and eager to learn, and tha
 You do not need to be an experienced programmer, but you should have familiarity with technical computing.
 We will use Python and Jupyter as the programming language and environment.
 
-> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (updated 03/09/2020) 
+> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (as of 03/09/2020) — PENDING CONFIRMATION
 
 ### Presenters
 
 - [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at [labarba@gwu.edu](labarba@gwu.edu).
 
-- [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. Contact him at [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu).
+- [Kyle Niemeyer](https://niemeyer-research-group.github.io) is an associated professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing. Contact him at [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu).
 - [Bryan Weber](https://bryanwweber.com) is assistant professor in residence and director of undergraduate studies at the University of Connecticut department of mechanical engineering. His research interests are in combustion of biofuels, computational analysis of reaction mechanisms for combustion, and software tools for combustion research and thermodynamics. Contact him at [bryan@bryanwweber.com](mailto:bryan@bryanwweber.com).
 - Guest speakers to be announced.
 
@@ -126,6 +130,11 @@ Developing original content using Jupyter is fun! We have learned many tricks th
 We will give an introduction to using GitHub to organize your class materials, and to track the progress of your development using the project-management tools provided by GitHub.
 We'll also discuss some of the tools we use to develop student assignments using Jupyter, particularly to get these assignments auto-graded.
 
+### Other topics
+
+- Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
+- Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
+
 ### Guest presentations
 
 #### Laura Wrubel, Megan Potterbusch
@@ -155,19 +164,8 @@ Ryan will present on major considerations as you design your courses to leverage
 **Bio**:  [Ryan Watkins](www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods.  He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](www.parsingscience.org), a podcast about the stories behind today’s most compelling science. 
 He also curates [We Share Science](www.wesharescience.com) and contributes to [SciencePods](www.sciencepods.com).
 
-#### Olivier Mesnard, Natalia Clementi
 
-Olivier and Natalia are senior graduate students in Barba's group at GW. They have contributed to the educational mission of the group by co-authoring content, acting as teaching assistants, writing assignments, and more. 
-They will lead an interactive session on:
 
-- Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
-- Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
-
-**Bios**:
-Olivier Mesnard is a doctoral student at GW, doing research in computational fluid dynamics. He was teaching assistant with Prof. Barba in two graduate courses, which he then taught as instructor of record in 2019. Olivier is co-author of the [AeroPython](https://lorenabarba.com/blog/announcing-aeropython/) lessons in aerodynamics with Python.
-
-Natalia Clementi is a doctoral student at GW, doing research in computational biophysics.
-She was teaching assistant with Prof. Barba in two undergraduate courses in engineering computations, and is co-author some of the [Engineers Code](https://github.com/engineersCode/EngComp) learning modules
 
 #### David Lippert
 
@@ -194,11 +192,11 @@ _Other guest talks to be announced._
 
 ---
 
-## Spring in Washington!
+## Join us in Washington!
 
-<img src="assets/blossoms_dc.png" width="650"/>
+<img src="https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/downloads/DC-GW.jpg" width="650"/>
 
-Photo by [Ridwan Meah](https://unsplash.com/@riddywankenobi) on Unsplash
+Take a [virtual tour](https://virtualtour.gwu.edu/virtual-tour-map#ctdl-UMAP_2019121051598) of the GW Foggy Bottom campus area.
 
 ## Thanks
 
