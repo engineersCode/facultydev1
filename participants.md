@@ -4,7 +4,7 @@ layout: default
 
 # Computing for Teaching and Learning. A Workshop for STEM Faculty.
 
-> 25–27 March 2020, The George Washington University, Washington DC
+> Now scheduled for 1–3 December 2021 (was 25–27 March 2020), hosted by the George Washington University, Washington DC
 
 ## [Home](https://engineerscode.github.io/facultydev1/)
 
@@ -21,12 +21,6 @@ Follow him on Twitter at [@jeremyabramson](https://twitter.com/jeremyabramson).
 He recently created the course ["Introduction to Linear Algebra"](https://learning.buffalo.edu/courses/course-v1:UBx+MTH309+2019_FA/course/) using Jupyter notebooks in the BUx Open edX platform.
 His materials are also available [on Github](https://github.com/bbadzioch/MTH309_F2019).
 
-### Francesca Bernardi
-
-[Francesca](http://www.fbernardi.info) is currently dean's post-doctoral scholar in the Department of Mathematics at Florida State University. 
-She is starting a tenure-track position in Mathematics with affiliation in Mechanical Engineering at the Worcester Polytechnic Institute next Fall. 
-Francesca is the co-founder of [Girls Talk Math](https://girlstalkmath.com), a free summer camp for female and gender non-conforming high-school students interested in STEM and Media. The camp now has three locations at the University of North Carolina at Chapel Hill, the University of Maryland at College Park, and the University of California Los Angeles. It includes curriculum built with Jupyter notebooks to learn about number systems, network science, and SIR modeling.
-Follow her on Twitter: [@fra_berni](https://twitter.com/fra_berni).
 
 ### Ryan C. Cooper
 
@@ -79,10 +73,6 @@ David is adjunct faculty in chemistry at Saginaw Valley State University and Mid
 
 [Steve](https://www.coe.edu/academics/majors-areas-study/chemistry/faculty) is a professor of chemistry at Coe College and contributor to the POGIL project. He has incorporated computing in undergraduate teaching of quantum mechanics, kinetics, and thermodynamics since the 1900s, but in recent years has adopted Python/Jupyter for the classroom. Python is also used by his research students for data analysis, instrument control, and computational chemistry.
 
-### Julie Smith
-
-[Julie](https://www.linkedin.com/in/julie-smith-25b073184/) is a curriculum developer, now pursuing a PhD in learning technologies at the University of North Texas.
-She has worked in K12 education in various capacities for the last two decades. Relatively new to the field of computer science, her doctoral work is focused on computer science education. Her interests include improving curriculum for underrepresented students.
 
 ### Aaron Titus
 
@@ -135,6 +125,4 @@ She is the main organizer of this workshop.
 He teaches courses in data science and is interested
 in tooling and infrastructure for data science education, e.g.,  the computational infrastructure in the cloud, JupyterHub and autograding student assignments. 
 
-### Rahul Simha
 
-[Rahul](https://www.seas.gwu.edu/rahul-simha) is a professor of computer science at the George Washington University, with a long-time interest in STEM education.
