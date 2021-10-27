@@ -69,7 +69,7 @@ We will use Python and Jupyter as the programming language and environment.
 
 > See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (as of 03/09/2020) — PENDING CONFIRMATION
 
-### Presenters
+### Organizers and presenters
 
 - [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at [labarba@gwu.edu](labarba@gwu.edu).
 
@@ -134,23 +134,23 @@ We'll also discuss some of the tools we use to develop student assignments using
 ### Other topics
 
 - Writing student assignments using [`nbgrader`](https://nbgrader.readthedocs.io/en/stable/), the Jupyter extension for auto-grading notebooks via hidden tests.
+- Other auto-grading tools.
 - Using [GitHub Classroom](https://classroom.github.com) to collect student assignments for grading, and more.
+- Turning your Jupyter notebooks into an online textbook with [JupyterBook](https://jupyterbook.org/intro.html).
 
 ### Guest presentations
 
-#### Laura Wrubel, Megan Potterbusch
+#### Laura Wrubel
 
-Laura and Megan are part of [GW Libraries and Academic Innovation](https://lai.gwu.edu), which has been experimenting several models to meet the demand for coding instruction at GW. 
-They turned Prof. Barba's open curriculum, designed for teaching computational thinking foundations to first-year engineering students, into a three-day “Python Camp” open to everybody. 
+Laura is part of [GW Libraries and Academic Innovation](https://lai.gwu.edu), which has been experimenting several models to meet the demand for coding instruction at GW. 
+They turned Prof. Barba's open curriculum, designed for teaching computational thinking foundations to first-year engineering students, into a three-day [Python Camp](https://libguides.gwu.edu/python-camp) open to everybody. 
 Key components of the mini-course are:
 
 - Using the [Carpentries](https://carpentries.org) pedagogical approach, they emphasize live-coding and formative assessment.  
 - Taking advantage of the [Open edX platform’s integration with Jupyter notebooks](https://lorenabarba.com/news/jupyter-based-courses-in-open-edx-authoring-and-grading-with-notebooks/), auto-graded homework assignments, and the library-hosted JupyterHub platform. 
 - Learners who complete course requirements receive a certificate of completion.
 
-**Bios**:
-Megan Potterbusch is a data services librarian at GW.  She works with faculty and student researchers to access, manage, preserve, and share research data including support for understanding best practices and compliance requirements.  As a [Carpentries](https://carpentries.org) instructor, she teaches workshops on Python, version control, data cleaning, and research data management.
-
+**Bio**:
 Laura Wrubel is a software development librarian at GW. She supports software applications, is a [Carpentries](https://carpentries.org) instructor, and teaches workshops on Python, git, social media data, and computational topics for students, faculty, and library staff. 
 
 #### Ryan Watkins
