@@ -3,8 +3,10 @@ layout: default
 permalink: /
 ---
 
-# Jupyter for Teaching and Learning
-### A Workshop for STEM Faculty. 
+# Computing for Teaching and Learning with Jupyter
+
+### A Workshop for STEM Faculty
+
 **December 1–3, 2021, Washington, DC.**
 
 > Twenty one months after the originally planned dates of 25–27 March 2020.
