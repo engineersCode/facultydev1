@@ -10,6 +10,9 @@ permalink: /
 > Twenty one months after the originally planned dates of 25–27 March 2020.
 > We did not give up!
 
+
+### [List of participants](https://engineerscode.github.io/facultydev1/participants) (updated 10/29/2021)
+
 ### Notices on COVID-19
 [Oct. 16, 2021]
 — From Sep. 27, GW requires that all visitors attest that they are vaccinated, or if they are unvaccinated, attest that they have received a negative COVID-19 test within 72 hours of their visit to campus.
@@ -67,9 +70,8 @@ The only pre-requisite is that you are still curious and eager to learn, and tha
 You do not need to be an experienced programmer, but you should have familiarity with technical computing.
 We will use Python and Jupyter as the programming language and environment.
 
-> See the [list of participants](https://engineerscode.github.io/facultydev1/participants) (as of 03/09/2020) — PENDING CONFIRMATION
 
-### Organizers and presenters
+## Organizers and presenters
 
 - [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing.  Barba received a PhD in aeronautics from the California Institute of Technology. Contact her at [labarba@gwu.edu](labarba@gwu.edu).
 
