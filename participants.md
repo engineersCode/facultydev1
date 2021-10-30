@@ -95,10 +95,7 @@ Bryan has developed several packages that use Jupyter Notebooks for his classes:
 
 Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jefferson High School for Science and Technology in Alexandria, VA. He mentors student senior research projects, teaches Artificial Intelligence and is designing a new Machine Learning course for next year. He is deploying Jupyter schoolwide for use in computer science classes and is very interested in helping class instructors bring meaningful technology to their classrooms. He received his PhD in Theoretical Computer Science from Cornell University and has been at TJHHST for five years.
 
-### Benjamin Woolson
 
-[Benjamin](https://coe.northeastern.edu/people/woolston-benjamin/) is an assistant professor of chemical engineering at Northeastern University.
-He teaches a course in Bioprocess Engineering, where he uses Jupyter notebook to introduce his students to Python tools for analysis and design of biological processes. His course materials are [on GitHub](https://github.com/NUChemE/chme5630).
 
 ## Local DC-area participants
 
@@ -107,11 +104,17 @@ He teaches a course in Bioprocess Engineering, where he uses Jupyter notebook to
 [Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing. Barba received a PhD in aeronautics from the California Institute of Technology.
 She is the main organizer of this workshop.
 
-### Diana Goldemberg
+### Raychelle Burks
+
+[Raychelle](https://www.american.edu/cas/faculty/burks.cfm) is an Associate Professor of analytical chemistry at American University in Washington, D.C.
+Her research team is focused on the development of colorimetric and luminescent sensor arrays for the detection of analytes of mainly forensic and national security interests with accompanying image and chemometric analysis.
+She is involved in curricular innovations via the [DIVAS Project](https://www.doane.edu/divas-project/about), helping students develop computational skills through image analysis in the context of introductory biology and chemistry.
+
+### Diana Goldemberg (tentative)
 
 [Diana](https://www.minerva.kgi.edu/people/diana-goldemberg-phd/) is an assistant professor of economics in the Minerva Schools at KGI.
 
-### Sara Hooshangi
+### Sara Hooshangi (tentative)
 
 [Sara](https://vt.edu/innovationcampus/News/2019/November/innovationcampus-sarahooshangi.html) is founding program director at the Virginia Tech Innovation Campus in Alexandria, Virginia.
 
@@ -119,10 +122,6 @@ She is the main organizer of this workshop.
 
 [Richard](https://ischool.umd.edu/faculty-staff/richard-marciano) is a professor in the College of Information Studies at the University of Maryland, with research interests in digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data. He is piloting an online collaborative network for integrating computational thinking into library and archival education and practice using Jupyter Notebooks.
 
-### Abdirisak Mohamed
 
-[Abdirisak](https://ischool.umd.edu/faculty-staff/abdirisak-mohamed) is adjuct faculty in the College of Information Studies, University of Maryland. 
-He teaches courses in data science and is interested
-in tooling and infrastructure for data science education, e.g.,  the computational infrastructure in the cloud, JupyterHub and autograding student assignments. 
 
 
