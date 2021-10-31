@@ -45,6 +45,10 @@ He is now teaching Multivariable Calculus for Engineers and Applied Scientists, 
 
 [Sara](https://coe.northeastern.edu/people/hashmi-sara-m/) is an assistant professor of Chemical Engineering at Northeastern University, where her lab group studies complex fluids and soft materials. She teaches graduate transport for chemical engineers, and seeks to introduce finite-element solution methods in additional to analytical ones.  She is also interested in incorporating interactive, online tools into her broader impacts and scientific outreach efforts.  
 
+### Renee Liu
+
+[Renee](https://sites.google.com/mail.ccsf.edu/renee-math-classroom/home) is a Math instructor in City College of San Francisco.  She is always interested in learning new tools and technologies and incorporating them into her classroom to empower her students.
+
 ### Sally Lucci
 
 [Sally](https://medicine.hsc.wvu.edu/who-we-are/faculty-staff/sally-lucci/) is the founding program director and an assistant professor in health informatics and information management at West Virginia University.
