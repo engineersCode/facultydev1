@@ -45,7 +45,11 @@ He is now teaching Multivariable Calculus for Engineers and Applied Scientists, 
 
 [Sara](https://coe.northeastern.edu/people/hashmi-sara-m/) is an assistant professor of Chemical Engineering at Northeastern University, where her lab group studies complex fluids and soft materials. She teaches graduate transport for chemical engineers, and seeks to introduce finite-element solution methods in additional to analytical ones.  She is also interested in incorporating interactive, online tools into her broader impacts and scientific outreach efforts.  
 
-### Kiran Kedlaya
+### Ashlee N. Ford Versypt
+
+[Ashlee](http://engineering.buffalo.edu/chemical-biological/people/faculty-directory/full-time.host.html/content/shared/engineering/chemical-biological/profiles/faculty/ford-versypt-ashlee.detail.html) is an associate professor in the Department of Chemical & Biological Engineering at the University at Buffalo, The State University of New York. She is also core faculty in the UB Institute for Computational and Data Sciences and affiliated faculty in the UB Department of Engineering Education. A collection of her research and teaching repositories is available on GitHub: [ashleefv](https://github.com/ashleefv)
+
+### Kiran S. Kedlaya
 
 [Kiran](https://kskedlaya.org/) is a professor in the Department of Mathematics at University of California San Diego. His research interests are in number theory and arithmetic algebraic geometry, including the algorithmic and computational aspects of these subjects. Since 2017 he has been teaching a [course on open-source mathematics software](https://github.com/kedlaya/math157) using Python and Jupyter.
 
