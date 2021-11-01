@@ -41,10 +41,7 @@ Follow him on Twitter: [@cooperrc84](https://twitter.com/cooperrc84)
 
 [Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics.
 He is now teaching Multivariable Calculus for Engineers and Applied Scientists, and his materials are available [on GitHub](https://github.com/drewyoungren/mvc-sp20).
-
-### Sara Hashmi
-
-[Sara](https://coe.northeastern.edu/people/hashmi-sara-m/) is an assistant professor of Chemical Engineering at Northeastern University, where her lab group studies complex fluids and soft materials. She teaches graduate transport for chemical engineers, and seeks to introduce finite-element solution methods in additional to analytical ones.  She is also interested in incorporating interactive, online tools into her broader impacts and scientific outreach efforts.  
+ 
 
 ### Ashlee N. Ford Versypt
 
