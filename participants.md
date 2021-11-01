@@ -48,6 +48,7 @@ He is now teaching Multivariable Calculus for Engineers and Applied Scientists, 
 ### Ashlee N. Ford Versypt
 
 [Ashlee](http://engineering.buffalo.edu/chemical-biological/people/faculty-directory/full-time.host.html/content/shared/engineering/chemical-biological/profiles/faculty/ford-versypt-ashlee.detail.html) is an associate professor in the Department of Chemical & Biological Engineering at the University at Buffalo, The State University of New York. She is also core faculty in the UB Institute for Computational and Data Sciences and affiliated faculty in the UB Department of Engineering Education. A collection of her research and teaching repositories is available on GitHub: [ashleefv](https://github.com/ashleefv)
+Follow her on Twitter: [@FordVersyptLab](https://twitter.com/FordVersyptLab)
 
 ### Kiran S. Kedlaya
 
@@ -80,6 +81,11 @@ He teaches lower and upper division undergraduate mathematics courses, and recen
 ### David Proctor 
 
 David is adjunct faculty in chemistry at Saginaw Valley State University and Mid Michigan College, where he teaches introductory, general and organic chemistry. Previously, he was a Scientific Review Officer with CSRA Inc., where he managed peer review for the Congressionally Directed Medical Research Programs, and a AAAS Science & Technology Policy Fellow working on scientific software infrastructure at the National Science Foundation.  He is currently exploring Jupyter Notebooks as a platform for engaging students.
+
+### Shannon Quinn
+
+[Shannon](https://quinngroup.github.io) is an associate professor at the University of Georgia with joint appointments in Computer Science and Cellular Biology. He develops models of cellular motion dynamics in response to stimuli, and his entire research lab employs Open Science principles and practices. He also has used Jupyter and JupyterHub for teaching introductory programming and computational biology courses. Follow him on Twitter at 
+[@SpectralFilter](https://twitter.com/SpectralFilter)
 
 ### Steve Singleton
 
