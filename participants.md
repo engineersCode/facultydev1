@@ -21,6 +21,12 @@ Follow him on Twitter at [@jeremyabramson](https://twitter.com/jeremyabramson).
 He recently created the course ["Introduction to Linear Algebra"](https://learning.buffalo.edu/courses/course-v1:UBx+MTH309+2019_FA/course/) using Jupyter notebooks in the BUx Open edX platform.
 His materials are also available [on Github](https://github.com/bbadzioch/MTH309_F2019).
 
+### Davidn Bindell
+
+[David](http://www.cs.cornell.edu/~bindel/) is Associate Professor of Computer Science, the director of the Center for Applied Mathematics, and Associate Dean of Diversity, Equity and Inclusion at the Cornell University College of Computing and Information Sciences.
+His research focus is in applied numerical linear algebra and scientific computing, with applications to a variety of science and engineering problems. 
+Follow him on Twitter: [@DavidBindel](https://twitter.com/DavidBindel)
+
 
 ### Ryan C. Cooper
 
