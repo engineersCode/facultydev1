@@ -30,11 +30,12 @@ strengthen problem-solving skills with project-based learning and numerical
 methods. He has used Jupyter to enhance learning in Dynamics, Vibrations,
 upper-level undergraduate laboratories, and is now teaching computational
 mechanics using Jupyter. His course materials are available on GitHub:
+[Computational
+Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics),
+[Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs),
+and a number of other educational resourceson in his GitHub account.
+Follow him on Twitter: [@cooperrc84](https://twitter.com/cooperrc84)
 
-* [Computational
-Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics)
-* [Upper-level engineering lab](https://github.uconn.edu/rcc02007/me3263_labs)
-* A number of other educational resources at <https://github.uconn.edu/rcc02007>
 
 ### Drew Youngren
 
@@ -119,14 +120,16 @@ Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jeffers
 
 ### Lorena A. Barba
 
-[Lorena A. Barba](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing. Barba received a PhD in aeronautics from the California Institute of Technology.
+[Lorena](https://lorenabarba.com) is a professor of mechanical and aerospace engineering at the George Washington University. Her research interests include computational fluid dynamics, biophysics, and high-performance computing. Barba received a PhD in aeronautics from the California Institute of Technology.
 She is the main organizer of this workshop.
+Follow her on Twitter: [@LorenaABarba](https://twitter.com/LorenaABarba)
 
 ### Raychelle Burks
 
 [Raychelle](https://www.american.edu/cas/faculty/burks.cfm) is an Associate Professor of analytical chemistry at American University in Washington, D.C.
 Her research team is focused on the development of colorimetric and luminescent sensor arrays for the detection of analytes of mainly forensic and national security interests with accompanying image and chemometric analysis.
 She is involved in curricular innovations via the [DIVAS Project](https://www.doane.edu/divas-project/about), helping students develop computational skills through image analysis in the context of introductory biology and chemistry.
+Follow her on Twitter: [@DrRubidium](https://twitter.com/DrRubidium)
 
 ### Diana Goldemberg (tentative)
 
