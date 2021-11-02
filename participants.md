@@ -75,7 +75,7 @@ She had a long career in health care, before pivoting to her current teaching ro
 
 ### Kyle Niemeyer
 
-[Kyle](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing.
+[Kyle](https://niemeyer-research-group.github.io) is an Associate Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing.
 He is a co-organizer of this workshop.
 Follow him on Twitter: [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 
