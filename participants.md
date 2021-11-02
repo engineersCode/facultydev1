@@ -126,11 +126,6 @@ Bryan has developed several packages that use Jupyter Notebooks for his classes:
 Follow him on Twitter: [@richardhwest](https://twitter.com/richardhwest)
 
 
-### Patrick White
-
-Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jefferson High School for Science and Technology in Alexandria, VA. He mentors student senior research projects, teaches Artificial Intelligence and is designing a new Machine Learning course for next year. He is deploying Jupyter schoolwide for use in computer science classes and is very interested in helping class instructors bring meaningful technology to their classrooms. He received his PhD in Theoretical Computer Science from Cornell University and has been at TJHHST for five years.
-
-
 ### Drew Youngren
 
 [Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics.
