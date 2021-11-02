@@ -53,6 +53,11 @@ Follow her on Twitter: [@FordVersyptLab](https://twitter.com/FordVersyptLab)
 
 [Kiran](https://kskedlaya.org/) is a professor in the Department of Mathematics at University of California San Diego. His research interests are in number theory and arithmetic algebraic geometry, including the algorithmic and computational aspects of these subjects. Since 2017 he has been teaching a [course on open-source mathematics software](https://github.com/kedlaya/math157) using Python and Jupyter.
 
+### Yanfen Li 
+
+Yanfen is an Assistant Teaching Professor of Biomedical Engineering at the University of Massachusetts Lowell. Her current research is in engineering education with a focus on curriculum development, formation of engineering identity in undergraduate students, and retention and recruitment of female and minority engineering students. 
+Follow her on Twitter: [@YanfenLi](https://twitter.com/YanfenLi)
+
 ### Renee Liu
 
 [Renee](https://sites.google.com/mail.ccsf.edu/renee-math-classroom/home) is a Math instructor in City College of San Francisco.  She is always interested in learning new tools and technologies and incorporating them into her classroom to empower her students.
