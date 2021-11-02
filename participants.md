@@ -91,6 +91,10 @@ David is adjunct faculty in chemistry at Saginaw Valley State University and Mid
 [Shannon](https://quinngroup.github.io) is an associate professor at the University of Georgia with joint appointments in Computer Science and Cellular Biology. He develops models of cellular motion dynamics in response to stimuli, and his entire research lab employs Open Science principles and practices. He also has used Jupyter and JupyterHub for teaching introductory programming and computational biology courses. Follow him on Twitter at 
 [@SpectralFilter](https://twitter.com/SpectralFilter)
 
+### Zachary del Rosario 
+
+[Zach](https://www.zdelrosario.com/) is an Assistant Professor of Engineering and Applied Statistics at Olin College. His technical research, teaching innovations, and external consulting are focused on helping scientists and engineers reason under uncertainty. Zach maintains an open-source python package for model analysis under uncertainty ([py-grama](https://github.com/zdelrosario/py_grama)), teaches [computing-oriented courses on statistics](https://github.com/zdelrosario/data-science-curriculum), and runs [workshops](https://zdelrosario.github.io/mi101/intro.html) for academic and industry professionals.
+
 ### Steve Singleton
 
 [Steve](https://www.coe.edu/academics/majors-areas-study/chemistry/faculty) is a professor of chemistry at Coe College and contributor to the POGIL project. He has incorporated computing in undergraduate teaching of quantum mechanics, kinetics, and thermodynamics since the 1900s, but in recent years has adopted Python/Jupyter for the classroom. Python is also used by his research students for data analysis, instrument control, and computational chemistry.
