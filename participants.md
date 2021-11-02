@@ -42,11 +42,6 @@ Mechanics](https://github.uconn.edu/rcc02007/Computational_Mechanics),
 and a number of other educational resourceson in his GitHub account.
 Follow him on Twitter: [@cooperrc84](https://twitter.com/cooperrc84)
 
-
-### Drew Youngren
-
-[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics.
-He is now teaching Multivariable Calculus for Engineers and Applied Scientists, and his materials are available [on GitHub](https://github.com/drewyoungren/mvc-sp20).
  
 
 ### Ashlee N. Ford Versypt
@@ -67,15 +62,18 @@ Follow her on Twitter: [@FordVersyptLab](https://twitter.com/FordVersyptLab)
 [Sally](https://medicine.hsc.wvu.edu/who-we-are/faculty-staff/sally-lucci/) is the founding program director and an assistant professor in health informatics and information management at West Virginia University.
 She had a long career in health care, before pivoting to her current teaching role in an undergraduate degree that combines business with science and information technology.
 
+
+### Stephanos (Steve) Matsumoto
+
+[Steve](https://www.stevematsumoto.net) is an Assistant Professor of Computer Science and Engineering at the Olin College of Engineering. His research interests are broadly in security and privacy. Steve is especially interested in how we can make practical changes that improve the security of widely-used technology. He is also interested in computing education, particularly in how to build a security mindset in students, as well as how to help students develop good software engineering habits and ethical practices in their work.
+
+
 ### Kyle Niemeyer
 
 [Kyle](https://niemeyer-research-group.github.io) is an assistant professor at the Oregon State University School of Mechanical, Industrial, and Manufacturing Engineering. His research interests are in computational modeling for fluid mechanics, combustion and chemical kinetics, and related topics like numerical methods and parallel computing.
 He is a co-organizer of this workshop.
 Follow him on Twitter: [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 
-### Stephanos (Steve) Matsumoto
-
-[Steve](https://www.stevematsumoto.net) is an Assistant Professor of Computer Science and Engineering at the Olin College of Engineering. His research interests are broadly in security and privacy. Steve is especially interested in how we can make practical changes that improve the security of widely-used technology. He is also interested in computing education, particularly in how to build a security mindset in students, as well as how to help students develop good software engineering habits and ethical practices in their work.
 
 ### Jesse Oldroyd
 
@@ -127,6 +125,11 @@ Follow him on Twitter: [@richardhwest](https://twitter.com/richardhwest)
 
 Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jefferson High School for Science and Technology in Alexandria, VA. He mentors student senior research projects, teaches Artificial Intelligence and is designing a new Machine Learning course for next year. He is deploying Jupyter schoolwide for use in computer science classes and is very interested in helping class instructors bring meaningful technology to their classrooms. He received his PhD in Theoretical Computer Science from Cornell University and has been at TJHHST for five years.
 
+
+### Drew Youngren
+
+[Drew](https://drew.youngren.nyc) is lecturer of applied mathematics at Columbia University, and he is interested in the role of computation in the learning of mathematics.
+He is now teaching Multivariable Calculus for Engineers and Applied Scientists, and his materials are available [on GitHub](https://github.com/drewyoungren/mvc-sp20).
 
 
 ## Local DC-area participants
