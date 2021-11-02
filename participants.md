@@ -113,6 +113,12 @@ Bryan has developed several packages that use Jupyter Notebooks for his classes:
 * [convert_and_download](https://github.com/bryanwweber/convert_and_download) to download multiple Notebooks as a single PDF
 * [thermohw](https://github.com/bryanwweber/thermohw) to manage generating homework assignments and solutions from Jupyter Notebooks
 
+### Richard West
+
+[Richard](https://web.northeastern.edu/comocheng/) is Associate Professor and the Associate Chair for Graduate Studies in the Department of Chemical Engineering at Northeastern University. He develops detailed microkinetic models for complex reacting systems, like combustion, heterogeneous catalysis, and bio-fuel processing.
+Follow him on Twitter: [@richardhwest](https://twitter.com/richardhwest)
+
+
 ### Patrick White
 
 Patrick is a Lab Director in the Computer Systems Research Lab at Thomas Jefferson High School for Science and Technology in Alexandria, VA. He mentors student senior research projects, teaches Artificial Intelligence and is designing a new Machine Learning course for next year. He is deploying Jupyter schoolwide for use in computer science classes and is very interested in helping class instructors bring meaningful technology to their classrooms. He received his PhD in Theoretical Computer Science from Cornell University and has been at TJHHST for five years.
