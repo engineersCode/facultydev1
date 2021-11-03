@@ -6,7 +6,7 @@ layout: default
 
 > Now scheduled for 1–3 December 2021 (was 25–27 March 2020), hosted by the George Washington University, Washington DC
 
-## [Home](https://engineerscode.github.io/facultydev1/)
+## [Back to Home page](https://engineerscode.github.io/facultydev1/)
 
 ## Funded participants
 
@@ -159,10 +159,20 @@ Follow her on Twitter: [@DrRubidium](https://twitter.com/DrRubidium)
 
 [Sara](https://vt.edu/innovationcampus/News/2019/November/innovationcampus-sarahooshangi.html) is founding program director at the Virginia Tech Innovation Campus in Alexandria, Virginia.
 
+### David Lippert 
+
+David is a software engineer at Leidos in Arlington, Virginia. He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge. He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
+
 ### Richard Marciano
 
 [Richard](https://ischool.umd.edu/faculty-staff/richard-marciano) is a professor in the College of Information Studies at the University of Maryland, with research interests in digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data. He is piloting an online collaborative network for integrating computational thinking into library and archival education and practice using Jupyter Notebooks.
 
+### Ryan Watkins 
+
+[Ryan](https://engineerscode.github.io/facultydev1/www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods. He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](https://engineerscode.github.io/facultydev1/www.parsingscience.org), a podcast about the stories behind today’s most compelling science. He also curates [We Share Science](https://engineerscode.github.io/facultydev1/www.wesharescience.com) and contributes to [SciencePods](https://engineerscode.github.io/facultydev1/www.sciencepods.com).
 
 
+### Laura Wrubel 
 
+Laura is a software development librarian at GW. She supports software applications, is a [Carpentries](https://carpentries.org/) instructor, and teaches workshops on Python, git, social media data, and computational topics for students, faculty, and library staff. 
+Follow her on Twitter at [@liblaura](https://twitter.com/liblaura)
