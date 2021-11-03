@@ -122,7 +122,7 @@ Bryan has developed several packages that use Jupyter Notebooks for his classes:
 
 ### Richard West
 
-[Richard](https://web.northeastern.edu/comocheng/) is Associate Professor and the Associate Chair for Graduate Studies in the Department of Chemical Engineering at Northeastern University. He develops detailed microkinetic models for complex reacting systems, like combustion, heterogeneous catalysis, and bio-fuel processing.
+[Richard](https://web.northeastern.edu/comocheng/) is Associate Professor and the Associate Chair for Graduate Studies in the Department of Chemical Engineering at Northeastern University. He develops detailed microkinetic models for complex reacting systems, like combustion, heterogeneous catalysis, and bio-fuel processing. He has taught (with Python and Jupyter) Chemical Engineering Kinetics and Reactors (both undergraduate and graduate versions), and Computational Modeling in Chemical Engineering (open to both undergaduates and graduate students); and, without Jupter, Process Dynamics and Control, and Graduate THermodynamics.
 Follow him on Twitter: [@richardhwest](https://twitter.com/richardhwest)
 
 
