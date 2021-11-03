@@ -125,6 +125,10 @@ Bryan has developed several packages that use Jupyter Notebooks for his classes:
 [Richard](https://web.northeastern.edu/comocheng/) is Associate Professor and the Associate Chair for Graduate Studies in the Department of Chemical Engineering at Northeastern University. He develops detailed microkinetic models for complex reacting systems, like combustion, heterogeneous catalysis, and bio-fuel processing.
 Follow him on Twitter: [@richardhwest](https://twitter.com/richardhwest)
 
+### Jason Williams
+
+[Jason](https://jasonjwilliamsny.github.io/profile/) is Assistant Director of the DNA Learning Center at Cold Spring Harbor Laboratory. He founded the [Life Science Trainers](https://lifescitrainers.org/), a global community of practice for short-format training in the life sciences. He also teaches a science course at Yeshiva University High School for Girls. 
+Follow him on Twitter at [@JasonWilliamsNY](https://twitter.com/JasonWilliamsNY)
 
 ### Drew Youngren
 
