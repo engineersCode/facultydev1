@@ -165,7 +165,7 @@ David is a software engineer at Leidos in Arlington, Virginia. He uses Jupyter n
 
 ### Richard Marciano
 
-[Richard](https://ischool.umd.edu/faculty-staff/richard-marciano) is a professor in the College of Information Studies at the University of Maryland, with research interests in digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data. He is piloting an online collaborative network for integrating computational thinking into library and archival education and practice using Jupyter Notebooks.
+[Richard](https://ischool.umd.edu/about/directory/richard-marciano) is a professor in the College of Information Studies at the University of Maryland, with research interests in digital curation, digital preservation, sustainable archives, cyberinfrastructure, and big data. He is piloting an online collaborative network for integrating computational thinking into library and archival education and practice using Jupyter Notebooks.
 
 ### Ryan Watkins 
 
