@@ -169,7 +169,8 @@ David is a software engineer at Leidos in Arlington, Virginia. He uses Jupyter n
 
 ### Ryan Watkins 
 
-[Ryan](https://engineerscode.github.io/facultydev1/www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods. He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](https://engineerscode.github.io/facultydev1/www.parsingscience.org), a podcast about the stories behind today’s most compelling science. He also curates [We Share Science](https://engineerscode.github.io/facultydev1/www.wesharescience.com) and contributes to [SciencePods](https://engineerscode.github.io/facultydev1/www.sciencepods.com).
+[Ryan](https://www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods. He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](https://engineerscode.github.io/facultydev1/www.parsingscience.org), a podcast about the stories behind today’s most compelling science. He also curates [We Share Science](https://engineerscode.github.io/facultydev1/www.wesharescience.com) and contributes to [SciencePods](https://engineerscode.github.io/facultydev1/www.sciencepods.com). 
+Follow him on Twitter at [@ryanrwatkins](https://twitter.com/ryanrwatkins)
 
 
 ### Laura Wrubel 
