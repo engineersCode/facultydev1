@@ -13,7 +13,7 @@ permalink: /
 > We did not give up!
 
 
-### [List of participants](https://engineerscode.github.io/facultydev1/participants) (updated 10/29/2021)
+### [List of participants](https://engineerscode.github.io/facultydev1/participants) (updated 11/04/2021)
 
 ### Notices on COVID-19
 [Oct. 16, 2021]
@@ -154,8 +154,6 @@ Key components of the mini-course are:
 - Taking advantage of the [Open edX platform’s integration with Jupyter notebooks](https://lorenabarba.com/news/jupyter-based-courses-in-open-edx-authoring-and-grading-with-notebooks/), auto-graded homework assignments, and the library-hosted JupyterHub platform. 
 - Learners who complete course requirements receive a certificate of completion.
 
-**Bio**:
-Laura Wrubel is a software development librarian at GW. She supports software applications, is a [Carpentries](https://carpentries.org) instructor, and teaches workshops on Python, git, social media data, and computational topics for students, faculty, and library staff. 
 
 #### Ryan Watkins
 
@@ -165,9 +163,6 @@ Ryan will present on major considerations as you design your courses to leverage
 - getting to know your students and their study strategies,
 - planning for how you will assess their knowledge & skills, and
 - creating engaging and motivational activities. 
-
-**Bio**:  [Ryan Watkins](www.ryanrwatkins.com) is a Professor of Educational Technology (MA) and Human-Technology Collaboration (PhD) at GW. He teaches instructional design, needs assessment, and research methods.  He is an author of 12 books, including Teaching and Learning with Jupyter, and more than 100 articles related to improving learner and organizational performance. He is co-host of [Parsing Science](www.parsingscience.org), a podcast about the stories behind today’s most compelling science. 
-He also curates [We Share Science](www.wesharescience.com) and contributes to [SciencePods](www.sciencepods.com).
 
 
 
@@ -179,7 +174,6 @@ David will give a 30-min presentation, targeting:
 - Why it matters to employers that we change teaching practices so all graduates are conversant with computational approaches to problem-solving, essentials of data science, and various modern tools of technology. 
 - The room where it happens. The questions we ask in interviews and how we make the decision to hire entry level candidates
 
-**Bio**: David Lippert is a software engineer at [Leidos](https://www.leidos.com) in Arlington, Virginia.  He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge.  He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
 
 
 

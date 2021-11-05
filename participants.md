@@ -161,7 +161,7 @@ Follow her on Twitter: [@DrRubidium](https://twitter.com/DrRubidium)
 
 ### David Lippert 
 
-David is a software engineer at Leidos in Arlington, Virginia. He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge. He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
+David is a software engineer at [Leidos](https://www.leidos.com) in Arlington, Virginia. He uses Jupyter notebooks for prototyping, exploratory data analysis, evaluating machine learning algorithms, and sharing knowledge. He is an advocate for inclusion, as leader of his office’s intern program and yearly participant at diversity recruitment events.
 
 ### Richard Marciano
 
